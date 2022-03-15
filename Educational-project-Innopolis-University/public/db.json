@@ -1,0 +1,68 @@
+{
+  "cardList": [
+    {
+      "id": 1,
+      "src": "images/Kukla-Nezabudka-master-klass-Tatyany-Kuzneczovoj-Platforma-Kapkejk_6.jpg",
+      "title": "Кукла Незабудка",
+      "subtitle": "Мастер-класс в PDF",
+      "descr": "Скажите родному человеку, что всегда будете рядом с ним, и подарите ему вот такую куклу-Незабудку.",
+      "price": 600
+    },
+    {
+      "id": 2,
+      "src": "images/Master-klass-Gus-Avtor-Tatyana-Kuzneczova-Platforma-Kapkejk_3.jpg",
+      "title": "Кукла Гусь Мартин",
+      "subtitle": "Мастер-класс в PDF",
+      "descr": "Главное в этой жизни – нос по ветру! Так считает гусь Мартин, и мы с ним полностью согласны. Хотите себе такого друга? Сшейте!",
+      "price": 400
+    },
+    {
+      "id": 3,
+      "src": "images/Master-klass-Nadezhdy-Hegaj-Novogodnij-nosok-kryuchkom.jpg",
+      "title": "Новогодний носок для подарков",
+      "subtitle": "Мастер-класс в PDF",
+      "descr": "Вместе с новогодним носком в виде пряничного человечка Вы научитесь вязать крючком два вида леденцов – круглые и в виде трости.",
+      "price": 250
+    },
+    {
+      "id": 4,
+      "src": "images/Master-klassy-Aleksandry-Morozovoj-na-Platforme-Kapkejk.jpg",
+      "title": "Мушка в технике 3D",
+      "subtitle": "Видео-урок",
+      "descr": "Насекомые постоянно на нас садятся. Но эту милую мушку никак нельзя назвать назойливой, ведь на её спинке кристаллы Сваровски",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "src": "images/Mumi-bloknot-Nadezhdy-Hmelevskoj_7.jpg",
+      "title": "Атмосферный муми-блокнот",
+      "subtitle": "Курс видео-уроков",
+      "descr": "\"Тот, у кого есть муми-блокнот, не может быть так уж жутко опасен!\". Слова Туве Янссон как нельзя лучше походят к этому курсу.",
+      "price": 1500
+    },
+    {
+      "id": 6,
+      "src": "images/Master-klassy-Tatyany-Firstovoj-na-Platforme-Kapkejk_10.jpg",
+      "title": "Носочки Книттингбург",
+      "subtitle": "Мастер-класс в PDF",
+      "descr": "Прогуляйтесь по сказочному городу Книттингбург в разных жаккардовых носочках. Удивлены? В этом вся прелесть радужного вязания.",
+      "price": 300
+    },
+    {
+      "id": 7,
+      "src": "images/Master-klass-Molochnyj-koktejl-Nadezhdy-Hegaj-Platforma-Kapkejk_-1024x1024.jpeg",
+      "title": "Молочный коктейль",
+      "subtitle": "Мастер-класс в PDF",
+      "descr": "Комплексный мастер-класс по вязанию стаканчика с молочным коктейлем, трубочки, взбитых сливок, клубники и черники.",
+      "price": 250
+    },
+    {
+      "id": 8,
+      "src": "images/Ranunkulyus-iz-saharnoj-czvetochnoj-mastiki-master-klass-na-Platforme-CupCake.jpeg",
+      "title": "Ранункулюс из мастики",
+      "subtitle": "Видео-урок",
+      "descr": "Цветок из сахарной мастики подойдет для декора десертов, создания украшений на праздничный стол.",
+      "price": 690
+    }
+  ]
+}
